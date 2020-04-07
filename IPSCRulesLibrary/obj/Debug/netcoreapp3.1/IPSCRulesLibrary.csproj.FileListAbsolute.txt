@@ -1,0 +1,9 @@
+C:\Personal\IPSCRulesApp\IPSCRulesLibrary\bin\Debug\netcoreapp3.1\IPSCRulesLibrary.deps.json
+C:\Personal\IPSCRulesApp\IPSCRulesLibrary\bin\Debug\netcoreapp3.1\IPSCRulesLibrary.dll
+C:\Personal\IPSCRulesApp\IPSCRulesLibrary\bin\Debug\netcoreapp3.1\IPSCRulesLibrary.pdb
+C:\Personal\IPSCRulesApp\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.csproj.CoreCompileInputs.cache
+C:\Personal\IPSCRulesApp\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.AssemblyInfoInputs.cache
+C:\Personal\IPSCRulesApp\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.AssemblyInfo.cs
+C:\Personal\IPSCRulesApp\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.dll
+C:\Personal\IPSCRulesApp\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.pdb
+C:\Personal\IPSCRulesApp\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.csprojAssemblyReference.cache

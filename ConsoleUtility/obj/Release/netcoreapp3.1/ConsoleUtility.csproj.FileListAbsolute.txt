@@ -1,0 +1,16 @@
+C:\Personal\IPSCRulesApp\ConsoleUtility\bin\Release\netcoreapp3.1\ConsoleUtility.exe
+C:\Personal\IPSCRulesApp\ConsoleUtility\bin\Release\netcoreapp3.1\ConsoleUtility.deps.json
+C:\Personal\IPSCRulesApp\ConsoleUtility\bin\Release\netcoreapp3.1\ConsoleUtility.runtimeconfig.json
+C:\Personal\IPSCRulesApp\ConsoleUtility\bin\Release\netcoreapp3.1\ConsoleUtility.runtimeconfig.dev.json
+C:\Personal\IPSCRulesApp\ConsoleUtility\bin\Release\netcoreapp3.1\ConsoleUtility.dll
+C:\Personal\IPSCRulesApp\ConsoleUtility\bin\Release\netcoreapp3.1\ConsoleUtility.pdb
+C:\Personal\IPSCRulesApp\ConsoleUtility\bin\Release\netcoreapp3.1\IPSCRulesLibrary.dll
+C:\Personal\IPSCRulesApp\ConsoleUtility\bin\Release\netcoreapp3.1\IPSCRulesLibrary.pdb
+C:\Personal\IPSCRulesApp\ConsoleUtility\obj\Release\netcoreapp3.1\ConsoleUtility.csprojAssemblyReference.cache
+C:\Personal\IPSCRulesApp\ConsoleUtility\obj\Release\netcoreapp3.1\ConsoleUtility.csproj.CoreCompileInputs.cache
+C:\Personal\IPSCRulesApp\ConsoleUtility\obj\Release\netcoreapp3.1\ConsoleUtility.AssemblyInfoInputs.cache
+C:\Personal\IPSCRulesApp\ConsoleUtility\obj\Release\netcoreapp3.1\ConsoleUtility.AssemblyInfo.cs
+C:\Personal\IPSCRulesApp\ConsoleUtility\obj\Release\netcoreapp3.1\ConsoleUtility.csproj.CopyComplete
+C:\Personal\IPSCRulesApp\ConsoleUtility\obj\Release\netcoreapp3.1\ConsoleUtility.dll
+C:\Personal\IPSCRulesApp\ConsoleUtility\obj\Release\netcoreapp3.1\ConsoleUtility.pdb
+C:\Personal\IPSCRulesApp\ConsoleUtility\obj\Release\netcoreapp3.1\ConsoleUtility.genruntimeconfig.cache

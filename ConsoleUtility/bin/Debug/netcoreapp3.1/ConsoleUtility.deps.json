@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleUtility/1.0.0": {
+        "dependencies": {
+          "IPSCRulesLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleUtility.dll": {}
+        }
+      },
+      "IPSCRulesLibrary/1.0.0": {
+        "runtime": {
+          "IPSCRulesLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPSCRulesLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
