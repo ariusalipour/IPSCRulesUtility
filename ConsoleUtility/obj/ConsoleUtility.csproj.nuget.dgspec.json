@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Personal\\IPSCRulesApp\\ConsoleUtility\\ConsoleUtility.csproj": {}
+    "C:\\Personal\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj": {}
   },
   "projects": {
-    "C:\\Personal\\IPSCRulesApp\\ConsoleUtility\\ConsoleUtility.csproj": {
+    "C:\\Personal\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\IPSCRulesApp\\ConsoleUtility\\ConsoleUtility.csproj",
+        "projectUniqueName": "C:\\Personal\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
         "projectName": "ConsoleUtility",
-        "projectPath": "C:\\Personal\\IPSCRulesApp\\ConsoleUtility\\ConsoleUtility.csproj",
+        "projectPath": "C:\\Personal\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
         "packagesPath": "C:\\Users\\Aryan.Alipour\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\IPSCRulesApp\\ConsoleUtility\\obj\\",
+        "outputPath": "C:\\Personal\\IPSCRulesUtility\\ConsoleUtility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -26,8 +26,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Personal\\IPSCRulesApp\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj": {
-                "projectPath": "C:\\Personal\\IPSCRulesApp\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj"
+              "C:\\Personal\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj": {
+                "projectPath": "C:\\Personal\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Personal\\IPSCRulesApp\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj": {
+    "C:\\Personal\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Personal\\IPSCRulesApp\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj",
+        "projectUniqueName": "C:\\Personal\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj",
         "projectName": "IPSCRulesLibrary",
-        "projectPath": "C:\\Personal\\IPSCRulesApp\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj",
+        "projectPath": "C:\\Personal\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj",
         "packagesPath": "C:\\Users\\Aryan.Alipour\\.nuget\\packages\\",
-        "outputPath": "C:\\Personal\\IPSCRulesApp\\IPSCRulesLibrary\\obj\\",
+        "outputPath": "C:\\Personal\\IPSCRulesUtility\\IPSCRulesLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

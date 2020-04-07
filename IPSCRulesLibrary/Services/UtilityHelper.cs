@@ -13,6 +13,7 @@ namespace IPSCRulesLibrary.Services
             filename = filename.Replace(")", "");
             filename = filename.Replace("\"", "");
             filename = filename.Replace("�", "-");
+            filename = filename.Replace("|", "-");
 
             return filename;
         }

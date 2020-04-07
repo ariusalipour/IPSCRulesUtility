@@ -12,6 +12,7 @@ namespace IPSCRulesLibrary.ObjectClasses
         }
 
         public Guid ChapterId;
+        public Guid DisciplineId;
         public string Numeric;
         public string Name;
         public string Description;

@@ -18,7 +18,7 @@ namespace ConsoleUtility
             Console.ReadLine();
 
             var rootPath = AppDomain.CurrentDomain.BaseDirectory;
-            string[] filenames = {"ActionAir.txt", "Handgun.txt", "Shotgun.txt", "Rifle.txt", "Mini-Rifle.txt", "PCC.txt"};
+            string[] filenames = {"Action Air.txt", "Handgun.txt", "Shotgun.txt", "Rifle.txt", "Mini-Rifle.txt", "PCC.txt"};
 
             Console.WriteLine();
             Console.WriteLine("Converting text files to OO Rulebooks");
@@ -44,7 +44,14 @@ namespace ConsoleUtility
                 disciplines.Add(rulesReader.CreateRuleChapters(convert.Value, convert.Key));
             }
 
-            Console.WriteLine("Rules book created. Printing...");
+            Console.WriteLine("Individual rules parsed.");
+            Console.WriteLine("");
+            Console.WriteLine("Creating Combined rules book...");
+
+            var ruleMerger = new RuleMerger();
+            disciplines.Add(ruleMerger.MergeDisciplines(disciplines));
+
+            Console.WriteLine("Rules book parsed. Printing...");
             Console.WriteLine();
             Console.WriteLine("Loading File Writer Service...");
             var fileWriter = new FileWriter();

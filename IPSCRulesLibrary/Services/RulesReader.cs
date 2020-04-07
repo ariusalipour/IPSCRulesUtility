@@ -17,7 +17,7 @@ namespace IPSCRulesLibrary.Services
         private Regex _ruleRegex = new Regex(@"^(?<numeric>\d+\.\d+\.\d+)\s((?<name>((\w+)\s)+)(-|�)\s)?(?<description>.+)");
         private Regex _subRuleRegex = new Regex(@"^(?<numeric>\d+\.\d+\.\d+\.\d+)\s((?<name>((\w+)\s)+)(-|�)\s)?(?<description>.+)");
         private Regex _numericRegex = new Regex(@"^(?<chapter>\d+)(\.(?<section>\d+)(\.(?<rule>\d+)(\.(?<subrule>\d+))?)?)?");
-
+        
         public RulesReader()
         {
 
@@ -27,7 +27,7 @@ namespace IPSCRulesLibrary.Services
         {
             var discipline = new Discipline()
             {
-                Name = disciplineName.Replace(".txt", " Rulebook")
+                Name = disciplineName.Replace(".txt", "")
             };
 
             var subRules = input.SubRules;
@@ -41,6 +41,7 @@ namespace IPSCRulesLibrary.Services
 
                 var ruleNumeric = $"{numericRegex.Groups["chapter"].Value}.{numericRegex.Groups["section"].Value}.{numericRegex.Groups["rule"].Value}";
 
+                subRule.DisciplineId = discipline.DisciplineId;
                 subRule.RuleId = rulesDictionary[ruleNumeric].RuleId;
 
                 rulesDictionary[ruleNumeric].SubRules.Add(subRule);
@@ -52,6 +53,7 @@ namespace IPSCRulesLibrary.Services
 
                 var sectionNumeric = $"{numericRegex.Groups["chapter"].Value}.{numericRegex.Groups["section"].Value}";
 
+                rule.DisciplineId = discipline.DisciplineId;
                 rule.SectionId = sectionsDictionary[sectionNumeric].SectionId;
 
                 sectionsDictionary[sectionNumeric].Rules.Add(rule);
@@ -63,12 +65,17 @@ namespace IPSCRulesLibrary.Services
 
                 var chapterNumeric = $"{numericRegex.Groups["chapter"].Value}";
 
+                section.DisciplineId = discipline.DisciplineId;
                 section.ChapterId = chaptersDictionary[chapterNumeric].ChapterId;
 
                 chaptersDictionary[chapterNumeric].Sections.Add(section);
             }
 
-            discipline.Chapters = chaptersDictionary.Values.ToList();
+            foreach (var chapter in chaptersDictionary.Values)
+            {
+                chapter.DisciplineId = discipline.DisciplineId;
+                discipline.Chapters.Add(chapter);
+            }
 
             return discipline;
         }
