@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 
 namespace IPSCRulesLibrary.Services
@@ -16,6 +17,13 @@ namespace IPSCRulesLibrary.Services
             filename = filename.Replace("|", "-");
 
             return filename;
+        }
+
+        public static void CreateUpdateFile(string filePath, string filename, string content)
+        {
+            Directory.CreateDirectory(filePath);
+
+            File.WriteAllText($"{filePath}/{filename}", content, Encoding.Default);
         }
     }
 }

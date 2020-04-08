@@ -7,20 +7,13 @@ using IPSCRulesLibrary.ObjectClasses;
 
 namespace IPSCRulesLibrary.Services
 {
-    public class FileWriter
+    public class WebsiteCreator
     {
         private HtmlParser _htmlParser;
 
-        public FileWriter()
+        public WebsiteCreator()
         {
             _htmlParser = new HtmlParser();
-        }
-
-        public void CreateUpdateFile(string filePath, string filename, string content)
-        {
-            Directory.CreateDirectory(filePath);
-
-            File.WriteAllText($"{filePath}/{filename}", content, Encoding.Default);
         }
 
         public void CreateWebsiteFilesDirectory(List<Discipline> disciplines)
@@ -31,8 +24,8 @@ namespace IPSCRulesLibrary.Services
             var htmlContent = _htmlParser.CreateIndexHtmlPage(disciplines);
             var cssStyling = _htmlParser.CreateCssStyling();
 
-            CreateUpdateFile(websitePath, "index.html", htmlContent);
-            CreateUpdateFile(websitePath, "styling.css", cssStyling);
+            UtilityHelper.CreateUpdateFile(websitePath, "index.html", htmlContent);
+            UtilityHelper.CreateUpdateFile(websitePath, "styling.css", cssStyling);
 
             foreach (var discipline in disciplines)
             {
@@ -47,7 +40,7 @@ namespace IPSCRulesLibrary.Services
             var filename = $"{discipline.Name}.html";
             var htmlContent = _htmlParser.CreateDisciplineHtmlPage(discipline);
 
-            CreateUpdateFile(disciplinePath, filename, htmlContent);
+            UtilityHelper.CreateUpdateFile(disciplinePath, filename, htmlContent);
 
             foreach (var chapter in discipline.Chapters)
             {
@@ -62,7 +55,7 @@ namespace IPSCRulesLibrary.Services
             var filename = $"{chapter.Name}.html";
             var htmlContent = _htmlParser.CreateChapterHtmlPage(chapter);
 
-            CreateUpdateFile(chapterPath, filename, htmlContent);
+            UtilityHelper.CreateUpdateFile(chapterPath, filename, htmlContent);
 
             foreach (var section in chapter.Sections)
             {
@@ -77,7 +70,7 @@ namespace IPSCRulesLibrary.Services
             var filename = $"{UtilityHelper.CreateFriendlyName(section.Name)}.html";
             var htmlContent = _htmlParser.CreateSectionHtmlPage(section);
 
-            CreateUpdateFile(sectionPath, filename, htmlContent);
+            UtilityHelper.CreateUpdateFile(sectionPath, filename, htmlContent);
         }
     }
 }

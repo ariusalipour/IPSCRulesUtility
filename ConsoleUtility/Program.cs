@@ -54,13 +54,24 @@ namespace ConsoleUtility
             Console.WriteLine("Rules book parsed. Printing...");
             Console.WriteLine();
             Console.WriteLine("Loading File Writer Service...");
-            var fileWriter = new FileWriter();
+            var fileWriter = new WebsiteCreator();
             Console.WriteLine("File Writer Service Initialized!");
             Console.WriteLine();
             Console.WriteLine("Creating Website Structure...");
             fileWriter.CreateWebsiteFilesDirectory(disciplines);
             Console.WriteLine();
             Console.WriteLine("Website Created!");
+            Console.WriteLine();
+            Console.WriteLine("Creating CSV Files of Disciplines...");
+            var csvParser = new CsvParser();
+            foreach (var discipline in disciplines)
+            {
+                csvParser.CreateCsvDiscipline(discipline);
+            }
+            Console.WriteLine("Individual disciplines parsed successfully");
+            Console.WriteLine("Creating master file...");
+            csvParser.CreateCsvDisciplines(disciplines);
+            Console.WriteLine("Master file created!");
         }
     }
 }
