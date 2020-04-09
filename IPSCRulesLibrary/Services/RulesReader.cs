@@ -82,7 +82,7 @@ namespace IPSCRulesLibrary.Services
 
         public ConversionResult ConvertFromTxtFile(string filePath)
         {
-            var fileArray = ReadFromFile(filePath);
+            var fileArray = UtilityHelper.ReadFromFile(filePath);
 
             var result = ConvertToRules(fileArray);
 
@@ -195,13 +195,6 @@ namespace IPSCRulesLibrary.Services
                 Rules = extractedRules,
                 SubRules = extractedSubRules
             };
-        }
-
-        private string[] ReadFromFile(string filePath)
-        {
-            var fileArray = File.ReadAllLines(filePath);
-
-            return fileArray;
         }
 
         public class ConversionResult

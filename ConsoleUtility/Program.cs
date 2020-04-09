@@ -72,6 +72,8 @@ namespace ConsoleUtility
             Console.WriteLine("Creating master file...");
             csvParser.CreateCsvDisciplines(disciplines);
             Console.WriteLine("Master file created!");
+            var csvReader = new CsvReader();
+            var readDisciplines = csvReader.ReadCsvDisciplines();
         }
     }
 }

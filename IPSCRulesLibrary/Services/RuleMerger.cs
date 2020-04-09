@@ -34,18 +34,19 @@ namespace IPSCRulesLibrary.Services
 
             foreach (var combinedChapters in allChaptersLookup)
             {
-                mergedDiscipline.Chapters.Add(MergeChapters(combinedChapters));
+                mergedDiscipline.Chapters.Add(MergeChapters(combinedChapters, mergedDiscipline.DisciplineId));
             }
 
             return mergedDiscipline;
         }
 
-        public Chapter MergeChapters(IGrouping<string, Chapter> combinedChapters)
+        public Chapter MergeChapters(IGrouping<string, Chapter> combinedChapters, Guid disciplineId)
         {
             var mergedChapter = new Chapter()
             {
                 Description = combinedChapters.First().Description,
-                Numeric = combinedChapters.First().Numeric
+                Numeric = combinedChapters.First().Numeric,
+                DisciplineId = disciplineId
             };
 
             var disciplineCount = _disciplineGuids.Count;
@@ -83,18 +84,19 @@ namespace IPSCRulesLibrary.Services
 
             foreach (var combinedSections in allSectionsLookup)
             {
-                mergedChapter.Sections.Add(MergeSections(combinedSections));
+                mergedChapter.Sections.Add(MergeSections(combinedSections, mergedChapter.ChapterId));
             }
 
             return mergedChapter;
         }
 
-        public Section MergeSections(IGrouping<string, Section> combinedSections)
+        public Section MergeSections(IGrouping<string, Section> combinedSections, Guid chapterId)
         {
             var mergedSection = new Section()
             {
                 Description = combinedSections.First().Description,
-                Numeric = combinedSections.First().Numeric
+                Numeric = combinedSections.First().Numeric,
+                ChapterId = chapterId
             };
 
             var disciplineCount = _disciplineGuids.Count;
@@ -133,18 +135,19 @@ namespace IPSCRulesLibrary.Services
 
             foreach (var combinedRules in allRulesLookup)
             {
-                mergedSection.Rules.Add(MergeRules(combinedRules));
+                mergedSection.Rules.Add(MergeRules(combinedRules, mergedSection.SectionId));
             }
 
             return mergedSection;
         }
 
-        public Rule MergeRules(IGrouping<string, Rule> combinedRules)
+        public Rule MergeRules(IGrouping<string, Rule> combinedRules, Guid sectionId)
         {
             var mergedRule = new Rule()
             {
                 Numeric = combinedRules.First().Numeric,
-                Description = combinedRules.Key
+                Description = combinedRules.Key,
+                SectionId = sectionId
             };
 
             var disciplineCount = _disciplineGuids.Count;
@@ -182,18 +185,19 @@ namespace IPSCRulesLibrary.Services
 
             foreach (var combinedSubRules in allSubRulesLookup)
             {
-                mergedRule.SubRules.Add(MergeSubRules(combinedSubRules));
+                mergedRule.SubRules.Add(MergeSubRules(combinedSubRules, mergedRule.RuleId));
             }
 
             return mergedRule;
         }
 
-        public SubRule MergeSubRules(IGrouping<string, SubRule> combinedRules)
+        public SubRule MergeSubRules(IGrouping<string, SubRule> combinedRules, Guid ruleId)
         {
             var mergedSubRule = new SubRule()
             {
                 Numeric = combinedRules.First().Numeric,
-                Description = combinedRules.Key
+                Description = combinedRules.Key,
+                RuleId = ruleId
             };
 
             var disciplineCount = _disciplineGuids.Count;

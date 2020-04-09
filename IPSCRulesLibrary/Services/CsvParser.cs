@@ -93,7 +93,7 @@ namespace IPSCRulesLibrary.Services
             {
                 // SectionId{_separator}SectionName{_separator}SectionNumeric{_separator}SectionDescription{_separator}ChapterId{_separator}DisciplineId
                 csv.AppendLine(
-                    $"SECTION{_separator}{section.SectionId}{_separator}{CsvFriendlyString(section.Name)}{_separator}{section.Numeric}{_separator}{CsvFriendlyString(section.Description)}{_separator}{section.DisciplineId}");
+                    $"SECTION{_separator}{section.SectionId}{_separator}{CsvFriendlyString(section.Name)}{_separator}{section.Numeric}{_separator}{CsvFriendlyString(section.Description)}{_separator}{section.ChapterId}{_separator}{section.DisciplineId}");
             }
 
             return csv;

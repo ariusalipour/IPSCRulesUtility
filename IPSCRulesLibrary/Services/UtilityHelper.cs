@@ -7,6 +7,13 @@ namespace IPSCRulesLibrary.Services
 {
     public static class UtilityHelper
     {
+        public static string[] ReadFromFile(string filePath)
+        {
+            var fileArray = File.ReadAllLines(filePath);
+
+            return fileArray;
+        }
+
         public static string CreateFriendlyName(string filename)
         {
             filename = filename.Replace("/", "");
