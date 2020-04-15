@@ -1,0 +1,50 @@
+Aftermarket.........................Items not manufactured by the OFM, and/or bearing identifying marks of a different OFM. 
+Aim / Aiming......................Aligning the barrel of a firearm at targets. 
+Allied Equipment................Magazines, speed loaders and/or their respective retention devices (including magnets). 
+Attempt at (COF)................The period from issuance of the Start Signal to when the competitor indicates that he has finished shooting, in response to Rule 8.3.6. 
+Berm ...................................A raised structure of sand, soil or other materials used to contain projectiles and/or to separate one shooting bay and/or COF from another. 
+Caliber ................................The diameter of a projectile measured in millimeters (or thousandths of an inch). 
+Compensator.......................A device fitted to the muzzle end of a barrel to counter muzzle rise (usually by diverting away escaping gasses). 
+Discharge............................See Shot. 
+Downrange..........................The general area of a stage, shooting bay or range, where the muzzle of a firearm may be safely pointed during a course of fire and/or where projectiles are intended or are likely to impact. 
+Draw (Drawing)..................The act of removing a handgun from its holster. A draw is deemed to have ended when the handgun has cleared the holster. 
+Dryfiring ............................The activation of the trigger and/or action of a firearm which is totally devoid of projectiles and/or propellant gas. 
+Engage ................................Firing a shot at a target. Firing a shot at, but missing, a target is not a "failure to engage". The malfunction of a firearm or a projectile which prevents a shot being fired, is deemed to be a "failure to engage". 
+Face, (facing) uprange ........The competitor’s face, chest and toes are all facing uprange. 
+False start............................Beginning an attempt at a COF prior to the Start Signal (see Rule 8.3.4). 
+Frangible target...................A target, such as a clay pigeon or tile, capable of being easily broken into two or more pieces when hit. 
+Holster ................................A handgun retention device, worn on a competitor's belt. 
+Loaded ................................A firearm having a projectile in the chamber, or having a projectile in an inserted or fitted magazine(s). 
+Loading...............................The initial insertion of projectiles into a firearm in response to the "Load And Make Ready" command. Loading begins as soon as the competitor grips a projectile, a magazine or speed loader, and ends when the firearm is securely holstered (or placed elsewhere in accordance with the written stage briefing), and the competitor's hands are clear of the firearm. For an 
+unloaded Handgun Ready Condition, loading ends when the magazine is fully seated (or when the cylinder is fully closed). 
+Location..............................A geographical place within a course of fire. 
+Match Personnel .................People who have an official duty or function at a match, but who are not necessarily qualified as, or acting in the capacity of, Match Officials. 
+May.....................................Entirely optional. 
+Must....................................Mandatory. 
+No-shoot(s) .........................Target(s) that incur penalties when hit. 
+Not applicable.....................The rule or requirement does not apply to the particular discipline or Division. 
+OFM ...................................Original firearm manufacturer. 
+Projectile.............................A 6 mm diameter pellet made of polymer or biodegradable materials such as starch or bio­plastic. 
+Props...................................Items, other than targets or fault lines, used in the creation, operation or decoration of a COF. 
+Prototype.............................A firearm in a configuration which is not in mass production and/or is not available to the general public. 
+Region.................................A country or other geographical area, recognized by IPSC. 
+Regional Director................The person, recognized by IPSC, who represents a Region. 
+Reloading............................Replacement of a magazine already inserted in a firearm with a different magazine, or the insertion of additional projectiles into a firearm while the competitor is actually making his attempt at a COF. Reloading commences when the magazine (or cylinder release) button is activated, and ends when the competitor's hand is clear of the newly inserted magazine (or when the cylinder is fully closed). Exception: safely firing the chambered projectile at a target before inserting a fresh magazine. 
+Reshoot ...............................A competitor's subsequent attempt at a course of fire, authorized in advance by a Range Officer or an Arbitration Committee. 
+Rigid Target / No-shoot ......A target or no-shoot made of inflexible material that is impenetrable by projectiles (e.g. metal, plastic, etc.). 
+Shooting position................The physical presentation of a person's body (e.g. standing, sitting, kneeling, prone). 
+Shot.....................................A projectile which is driven completely through the barrel of a firearm by propellant gas. 
+Should.................................Optional but highly recommended. 
+Sight picture........................Aiming at a target without actually shooting at it. 
+Stance .................................The physical presentation of a person's limbs (e.g. hands by the side, arms crossed etc.). 
+Start position.......................The location, shooting position and stance prescribed by a COF prior to issuance of the Start Signal (see Rule 8.3.4). 
+Strong Hand........................The hand a person uses to initially grip a handgun when drawing it from a holster attached to their belt (the weak hand is the other hand). Competitors with only one hand can use that hand for both Strong and Weak Hand stages, subject to Rule 10.2.10. 
+Sweeping ............................Pointing the muzzle of a firearm at any part of the competitor's body during a course of fire when a handgun is held or touched while not securely holstered (see Rule 10.5.5). 
+Target(s)..............................A term that can include both scoring target(s) and no-shoot(s) unless a Rule (e.g. 4.1.3) differentiates between them. 
+Target Array .......................A collection of approved targets that can only be seen from any single location or view. 
+Tie-down rig .......................A holster where the lower portion is secured to a competitor's leg by a strap or other means. 
+Unloaded.............................A firearm which is totally devoid of any projectiles in its chamber(s) and/or in an inserted or fitted magazine(s). 
+Unloading ...........................Removal of projectiles from a firearm when the competitor has completed his attempt at a COF or when otherwise directed to unload by a Range Official. Unloading commences as soon as the magazine (or cylinder) release button is activated, and ends when the handgun is devoid of projectiles. Note that a competitor who, after activating the magazine or cylinder release button in response to the command given in Rule 8.3.6, safely fires the chambered projectile at a target and/or who reinserts projectiles, is deemed to have terminated the unloading process and resumed shooting. 
+Uprange ..............................The general area of a stage, shooting bay or range, rearwards of the default maximum safe angle of fire (see Rule 2.1.2), where the muzzle of a firearm must not be pointed during a course of fire (exception: see Rules 10.5.2 and 10.5.6). 
+View ...................................A vantage point available at a location (e.g. one of the ports, one side of a barricade etc.). 
+Will.....................................Mandatory. 

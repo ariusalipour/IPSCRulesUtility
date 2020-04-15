@@ -131,30 +131,7 @@ The competitor is always responsible to safely fulfill the requirements of a cou
 3.1.2 Non-Published Courses of Fire – Same as Rule 3.1.1 except that the details for the course of fire are not published beforehand. The course of fire instructions are provided in the written stage briefing. 
 
 3.2 Written Stage Briefings 
-3.2.1 A written stage briefing consistent with these rules and approved by the Range Master must be posted at each course of fire prior to commencement of the match. This briefing will take precedence over any course of fire information published or otherwise communicated to competitors in advance of the match, and it must provide the following minimum information: 
-• 
-Targets (type & number); 
-
-• 
-Number of projectiles to be scored; 
-
-• 
-The handgun ready condition; 
-
-• 
-Start position; 
-
-• 
-Time starts: audible or visual signal; 
-
-• 
-Time stops: last shot and/or Stop Plate; 
-
-• 
-Location of Stop Plate (if used); 
-
-• 
-Procedure. 
+3.2.1 A written stage briefing consistent with these rules and approved by the Range Master must be posted at each course of fire prior to commencement of the match. This briefing will take precedence over any course of fire information published or otherwise communicated to competitors in advance of the match, and it must provide the following minimum information: <br><br>- Targets (type & number); <br><br>- Number of projectiles to be scored; <br><br>- The handgun ready condition; <br><br>- Start position; <br><br>- Time starts: audible or visual signal; <br><br>- Time stops: last shot and/or Stop Plate; <br><br>- Location of Stop Plate (if used); <br><br>- Procedure. 
 
 
 3.2.2 The Range Officer in charge of a course of fire must read out the written stage briefing verbatim to each squad. The Range Officer must visually demonstrate the acceptable Start Position (either by use of a picture or physically) at all match levels. 
@@ -169,17 +146,7 @@ CHAPTER 4: Range Equipment
 4.1 Targets – General Principles 
 4.1.1 Only targets approved by the IPSC Assembly and which fully comply with the specifications in Appendices B and C are to be used for IPSC Action Air matches. 
 4.1.1.1 If one or more targets at a match fail to comply exactly with the stated specifications, and if replacement targets of the correct specifications are unavailable, the Range Master must decide whether or not the variance is acceptable for that match, and which provisions of Section 2.3 of these rules will apply, if any. However, the Range Master's decision will only affect the match in progress, and will not serve as a precedent for future matches held at the same location, or for any subsequent use of the subject targets at another match. 
-4.1.1.2 There are two sizes of poppers approved for use in IPSC Action Air matches (see Appendix C). IPSC Action Air Mini Poppers are used to simulate IPSC Action Air Poppers placed at greater distances. The following types and sizes of targets may be included together in the same target array: 
-• 
-Action Air Targets and Action Air Poppers; or 
-
-• 
-Action Air Targets and Action Air Mini Poppers. 
-
-The following types and sizes of targets must not be included together in the same target array: 
-
-• 
-Action Air Poppers and Action Air Mini Poppers. 
+4.1.1.2 There are two sizes of poppers approved for use in IPSC Action Air matches (see Appendix C). IPSC Action Air Mini Poppers are used to simulate IPSC Action Air Poppers placed at greater distances. The following types and sizes of targets may be included together in the same target array: <br><br>- Action Air Targets and Action Air Poppers; or <br><br>- Action Air Targets and Action Air Mini Poppers. The following types and sizes of targets must not be included together in the same target array: <br><br>- Action Air Poppers and Action Air Mini Poppers. 
 
 
 4.1.2 Scoring targets used in all IPSC matches must be of a single color, as follows: 
@@ -218,15 +185,14 @@ Action Air Poppers and Action Air Mini Poppers.
 4.3.2.1 IPSC Action Air Poppers and IPSC Action Air Mini Poppers are both approved rigid targets designed to recognize power, and must be calibrated as specified in Appendix C1. 
 
 4.3.3 IPSC Action Air Plates 
-Stop Plates 
-4.3.3.1 For the sake of consistent time recording of the end of a competitor’s attempt at a COF, the use of a Stop Plate, complying with the specifications in Appendix C3, is recommended. Stop Plates must be clearly distinguishable from regular plates and they are subject to sensitivity calibration (see Appendix C1). Stop Plates are non-scoring. 
-4.3.3.2 Stop Plates do not recognize power and, with the exception of sensitivity calibration, are not subject to calibration or calibration challenges. If a Stop Plate has been adequately and directly hit 
-(i.e. with a full projectile diameter) but it fails to self-indicate, a Range Officer may declare range equipment failure and order the competitor to reshoot the course of fire, after the faulty Stop Plate has been rectified. 
-4.3.3.3 Stop Plates which fail to self-indicate when initially hit, but which self-indicate when hit with a subsequent shot, are not subject to a reshoot. 
-Falling Plates 
-4.3.3.4 Falling plates, not less than 10 centimeters square or in diameter, may be used (see Appendix C3). 
-4.3.3.5 Falling plates do not recognize power and are not subject to calibration or calibration challenges. 
-4.3.3.6 Falling plates must not be used exclusively in a course of fire. At least one authorized scoring paper target or scoring popper (in addition to any paper or rigid no-shoots), must be included in each course of fire. 
+
+4.3.3.1 Stop Plates - For the sake of consistent time recording of the end of a competitor’s attempt at a COF, the use of a Stop Plate, complying with the specifications in Appendix C3, is recommended. Stop Plates must be clearly distinguishable from regular plates and they are subject to sensitivity calibration (see Appendix C1). Stop Plates are non-scoring. 
+4.3.3.2 Stop Plates - Stop Plates do not recognize power and, with the exception of sensitivity calibration, are not subject to calibration or calibration challenges. If a Stop Plate has been adequately and directly hit (i.e. with a full projectile diameter) but it fails to self-indicate, a Range Officer may declare range equipment failure and order the competitor to reshoot the course of fire, after the faulty Stop Plate has been rectified. 
+4.3.3.3 Stop Plates - Stop Plates which fail to self-indicate when initially hit, but which self-indicate when hit with a subsequent shot, are not subject to a reshoot. 
+
+4.3.3.4 Falling Plates - Falling plates, not less than 10 centimeters square or in diameter, may be used (see Appendix C3). 
+4.3.3.5 Falling Plates - Falling plates do not recognize power and are not subject to calibration or calibration challenges. 
+4.3.3.6 Falling Plates - Falling plates must not be used exclusively in a course of fire. At least one authorized scoring paper target or scoring popper (in addition to any paper or rigid no-shoots), must be included in each course of fire. 
 
 
 4.3.4 No-Shoots 
@@ -252,8 +218,7 @@ CHAPTER 5: Competitor Equipment
 5.1  Firearms  
 5.1.1  Firearms are regulated by Divisions (see Appendix D), but courses of fire must remain consistent for all Divisions.  
 5.1.2  Approved Action Air Handguns are those which fire projectiles of 6 mm diameter (also see Rule 5.5.4). Self-loading pistols must have a magazine containing the projectiles and propellant in a single, detachable unit, they must have a retractable slide, and they must operate with a blowback action.  
-5.1.3  Sights  
-Types of sights identified by IPSC are:  
+5.1.3  Sights - Types of sights identified by IPSC are:  
 5.1.3.1  "Open sights" are aiming devices fitted to a firearm which do not use electronic circuitry and/or lenses. Fiber-optic inserts are deemed not to be lenses.  
 5.1.3.2  "Optical/electronic sights" are aiming devices (including flashlights) fitted to a firearm which use electronic circuitry and/or lenses.  
 5.1.3.3  The Range Master is the final authority in respect of the classification of any sights used in an IPSC match and/or their compliance with these rules, including the Divisions in Appendix D.  
@@ -326,14 +291,13 @@ Types of sights identified by IPSC are:
 CHAPTER 6: Match Structure 
 6.1 General Principles 
 The following definitions are used for clarity: 
-6.1.1 Course Of Fire (also "course" and "COF") – A separately timed and scored IPSC shooting challenge, conceptualized and constructed in accordance with IPSC principles of course design, containing targets and challenges which each competitor must safely negotiate. 
+6.1.1 Course Of Fire - (also "course" and "COF") – A separately timed and scored IPSC shooting challenge, conceptualized and constructed in accordance with IPSC principles of course design, containing targets and challenges which each competitor must safely negotiate. 
 6.1.2 Stage – A portion of an IPSC match containing one course of fire and related supporting facilities, amenities, shelter and signage. A stage must use one type of firearm (e.g. handgun) exclusively. 
 6.1.3 Match – Consists of a minimum of 3 stages where all stages use the same type of firearm. The total sum of individual stage results will be accumulated to declare a match winner. 
 6.1.4 Not applicable. 
 6.1.5 Not applicable. 
 6.1.6 League – Consists of two or more IPSC matches of a single firearm type held at different locations and on different dates. The total sum of match results attained by each competitor at component matches specified by the league organizers will be accumulated to determine a league winner. 
-6.1.7 A Region affiliated to IPSC cannot actively or passively sanction a shooting match of any type or format within the geographical boundaries of another Region without the advance and written approval of the Regional Director of the Region where the match is to be held. A Region in violation is subject to Section 
-5.9 of the IPSC Constitution. 
+6.1.7 A Region affiliated to IPSC cannot actively or passively sanction a shooting match of any type or format within the geographical boundaries of another Region without the advance and written approval of the Regional Director of the Region where the match is to be held. A Region in violation is subject to Section 5.9 of the IPSC Constitution. 
 6.2 Match Divisions 
 6.2.1 IPSC Divisions recognize different firearms and equipment (see Appendix D). Each match must recognize at least one Division. When multiple Divisions are available in a match, each Division must be scored separately and independently, and match results must recognize a winner in each Division. 
 6.2.2 In IPSC sanctioned matches, the minimum number of competitors stipulated in Appendix A2 must compete in each Division for it to be recognized. If there are insufficient competitors in a Division, the Match Director may allow that Division to stand without official IPSC recognition. 
@@ -342,8 +306,7 @@ The following definitions are used for clarity:
 6.2.3.2 The competitor’s firearm and all allied equipment accessible to him during a course of fire are subject to compliance testing, if requested by a Match Official. 
 6.2.4 Subject to the prior approval of the Match Director, a competitor may enter a match in more than one Division. However, the competitor may compete for score in only one Division, and that must be the first attempt in all cases. Any subsequent attempts in another Division will not be entered into match results nor count for match recognition and awards. 
 6.2.5 Where a Division is unavailable or deleted, or where a competitor fails to declare a specific Division prior to the commencement of a match, the competitor will be placed in the Division which, in the opinion of the Range Master, most closely identifies with the competitor's equipment. If, in the opinion of the Range Master, no suitable Division is available, the competitor will shoot the match for no score. 
-6.2.5.1 A competitor who fails to satisfy the maximum distance of handgun and allied equipment from his torso (see Appendix D), or the foremost limit for handgun, holster and allied equipment (see Appendix E2), requirements of a declared Division after the Start Signal will incur a warning for the first offense. Subsequent occurrences in the same match will result in the competitor being placed in Open Division, if available, otherwise the competitor's scores will not be entered into match results. Competitors already registered in Open Division who fail to comply with the above requirements after the Start Signal will incur a warning for the first offense, but will not have their scores entered into match results for subsequent occurrences in the same match. A competitor who fails to satisfy the equipment or other requirements, with the exception of those listed above, of a declared Division after the Start Signal, will be placed in Open Division, if available, otherwise the competitor's scores will not be entered into match results. Competitors already registered in Open Division who fail to comply with the requirements, with the exception of those listed above, of Open Division after the Start Signal will not have their scores entered into match results. This rule does not apply for measurements done under Rule 5.2.5, either before (see Rule 
-6.2.3) or after the competitor has shot the stage. 
+6.2.5.1 A competitor who fails to satisfy the maximum distance of handgun and allied equipment from his torso (see Appendix D), or the foremost limit for handgun, holster and allied equipment (see Appendix E2), requirements of a declared Division after the Start Signal will incur a warning for the first offense. Subsequent occurrences in the same match will result in the competitor being placed in Open Division, if available, otherwise the competitor's scores will not be entered into match results. Competitors already registered in Open Division who fail to comply with the above requirements after the Start Signal will incur a warning for the first offense, but will not have their scores entered into match results for subsequent occurrences in the same match. A competitor who fails to satisfy the equipment or other requirements, with the exception of those listed above, of a declared Division after the Start Signal, will be placed in Open Division, if available, otherwise the competitor's scores will not be entered into match results. Competitors already registered in Open Division who fail to comply with the requirements, with the exception of those listed above, of Open Division after the Start Signal will not have their scores entered into match results. This rule does not apply for measurements done under Rule 5.2.5, either before (see Rule 6.2.3) or after the competitor has shot the stage. 
 6.2.5.2 A competitor who is classified or reclassified as above must be notified as soon as possible. The Range Master's decision on these matters is final. 
 6.2.5.3 A competitor reclassified to Open Division under Rule 6.2.5.1 will thereafter be subject only to the provisions of Appendix D but is required to continue using the same firearm and sights, unless Rule 5.1.7 applies. 
 6.2.6 A disqualification incurred by a competitor, at any time during a match, will prevent the competitor from further participation in the match including any subsequent attempts in another Division. However, this is not retroactive. Any previous and complete scores from another Division will be entered into match results for recognition and awards in that Division. 
@@ -369,9 +332,7 @@ The following definitions are used for clarity:
 6.5.2 A competitor and/or team member may represent only the IPSC Region in which they reside, except as follows: 
 6.5.2.1 In respect of a competitor who resides in one Region, but who wishes to represent the Region of which they are a citizen, the Regional Directors for the Region of residence and the Region of citizenship must agree in writing prior to the commencement of the match. 
 6.5.2.2 A competitor who falls under the conditions of Rule 6.5.1.2 may represent the Region of which they are a member, subject to the prior written approval of the Regional Director. 
-6.5.3 At Regional and Continental Championships, only competitors who satisfy the residency requirements stated in Rule 6.5.1 are entitled to be recognized as the Regional or Continental Champion, by Division and/or by Division/Category, as the case may be. However, when determining Regional or Continental Champions, match results of competitors from outside the applicable Region or Continent must not be deleted from the match results, which must remain wholly intact. For example: 
-Region 1 Open Division Championships 
-100% Competitor A -Region 2 (declared as Overall Match and Division Champion) 99% Competitor B -Region 6 95% Competitor C -Region 1 (declared as Region 1 Champion) 
+6.5.3 At Regional and Continental Championships, only competitors who satisfy the residency requirements stated in Rule 6.5.1 are entitled to be recognized as the Regional or Continental Champion, by Division and/or by Division/Category, as the case may be. However, when determining Regional or Continental Champions, match results of competitors from outside the applicable Region or Continent must not be deleted from the match results, which must remain wholly intact. For example: <br><br>Region 1 Open Division Championships <br><br>100% Competitor A -Region 2 (declared as Overall Match and Division Champion) 99% Competitor B -Region 6 95% Competitor C -Region 1 (declared as Region 1 Champion) 
 6.6 Competitor Scheduling and Squadding 
 6.6.1 Competitors must compete for score according to the published match and squadding schedule. A competitor who is not present at the scheduled time and date for any stage may not attempt that stage without the prior approval of the Match Director, failing which the competitor's score for that stage will be zero. 
 6.6.2 Only Match Officials (approved by the Range Master), match sponsors, IPSC Patrons and dignitaries (approved by the Match Director), who are members in good standing of their Region of residence, and IPSC Officers (as defined in Section 6.1 of the IPSC Constitution) may compete in a pre-match. Scores attained in the pre-match will be included in the overall match results provided dates of the pre-match are published in advance in the official match schedule. Competitors in the main match must not be restricted from viewing the pre-match. 
@@ -382,13 +343,13 @@ Region 1 Open Division Championships
 CHAPTER 7: Match Management 
 7.1 Match Officials 
 The duties and terms of reference of Match Officials are defined as follows: 
-7.1.1 Range Officer ("RO") – Issues range commands, oversees competitor compliance with the written stage briefing and closely monitors safe competitor action. He also declares the time, scores and penalties achieved by each competitor and verifies that these are correctly recorded on the competitor's score sheet (under the authority of a Chief Range Officer and Range Master). 
-7.1.2 Chief Range Officer ("CRO") – Is the primary authority over all persons and activities in the courses of fire under his control, and oversees the fair, correct and consistent application of these rules (under the direct authority of the Range Master). 
-7.1.3 Stats Officer ("SO") – Supervises the stats room team, which collects, sorts, verifies, tabulates and retains all score sheets and ultimately produces provisional and final results (under the direct authority of the Range Master). 
-7.1.4 Quartermaster ("QM") – Distributes, repairs and maintains all range equipment (e.g. targets, patches, paint, props etc.), other range needs (e.g. timers, batteries, staplers, staples, clipboards etc.) and replenishes Range Officer refreshments (under the direct authority of the Range Master). 
-7.1.5 Range Master ("RM") – Has overall authority over all persons and activities within the entire range, including range safety, the operation of all courses of fire and the application of these rules. All disqualifications and appeals to arbitration must be brought to his attention. The Range Master is usually appointed by and works with the Match Director. However, in respect of IPSC sanctioned Level IV or higher matches, the appointment of the Range Master is subject to the prior written approval of the IPSC Executive Council. 
+7.1.1 Range Officer - ("RO") – Issues range commands, oversees competitor compliance with the written stage briefing and closely monitors safe competitor action. He also declares the time, scores and penalties achieved by each competitor and verifies that these are correctly recorded on the competitor's score sheet (under the authority of a Chief Range Officer and Range Master). 
+7.1.2 Chief Range Officer - ("CRO") – Is the primary authority over all persons and activities in the courses of fire under his control, and oversees the fair, correct and consistent application of these rules (under the direct authority of the Range Master). 
+7.1.3 Stats Officer - ("SO") – Supervises the stats room team, which collects, sorts, verifies, tabulates and retains all score sheets and ultimately produces provisional and final results (under the direct authority of the Range Master). 
+7.1.4 Quartermaster - ("QM") – Distributes, repairs and maintains all range equipment (e.g. targets, patches, paint, props etc.), other range needs (e.g. timers, batteries, staplers, staples, clipboards etc.) and replenishes Range Officer refreshments (under the direct authority of the Range Master). 
+7.1.5 Range Master - ("RM") – Has overall authority over all persons and activities within the entire range, including range safety, the operation of all courses of fire and the application of these rules. All disqualifications and appeals to arbitration must be brought to his attention. The Range Master is usually appointed by and works with the Match Director. However, in respect of IPSC sanctioned Level IV or higher matches, the appointment of the Range Master is subject to the prior written approval of the IPSC Executive Council. 
 7.1.5.1 References to "Range Master" throughout this rulebook mean the person serving as Range Master at a match (or his authorized delegate for one or more specific functions), regardless of any international or regional rank. 
-7.1.6 Match Director ("MD") – Handles overall match administration including squadding, scheduling, range construction, the coordination of all support staff and the provision of services. His authority and decisions will prevail with regard to all matters except in respect of matters in these rules which are the domain of the Range Master. The Match Director is appointed by the host organization and works with the Range Master. 
+7.1.6 Match Director - ("MD") – Handles overall match administration including squadding, scheduling, range construction, the coordination of all support staff and the provision of services. His authority and decisions will prevail with regard to all matters except in respect of matters in these rules which are the domain of the Range Master. The Match Director is appointed by the host organization and works with the Range Master. 
 7.2 Discipline of Match Officials 
 7.2.1 The Range Master has authority over all Match Officials other than the Match Director (except when the Match Director is actually participating as a competitor at the match), and is responsible for decisions in matters concerning conduct and discipline. 
 7.2.2 In the event that a Match Official is disciplined, the Range Master must send a report of the incident and details of the disciplinary action to the Match Official's Regional Director, the Regional Director of the Region hosting the match, and to the President of the International Range Officers Association (IROA). 
@@ -402,9 +363,9 @@ CHAPTER 8: The Course of Fire
 The ready condition for handguns will normally be as stated below. However, in the event that a competitor fails to load the chamber when permitted by the written stage briefing, whether inadvertently or intentionally, the Range Officer must not take any action, as the competitor is always responsible for the handling of the handgun. 
 8.1.1 Not applicable. 
 8.1.2 Self-loading Pistols: 
-8.1.2.1 "Single action" – Chamber loaded, hammer cocked, with external safety applied. 
-8.1.2.2 "Double action" – Chamber loaded, hammer fully down or decocked. 
-8.1.2.3 "Selective action" – Chamber loaded hammer fully down or decocked, or chamber loaded, hammer cocked with external safety applied. 
+8.1.2.1 Single Action - "Single action" – Chamber loaded, hammer cocked, with external safety applied. 
+8.1.2.2 Double Action - "Double action" – Chamber loaded, hammer fully down or decocked. 
+8.1.2.3 Selective Action - "Selective action" – Chamber loaded hammer fully down or decocked, or chamber loaded, hammer cocked with external safety applied. 
 8.1.2.4 For all self-loading pistols, the term "external safety" means the primary visible safety lever on the handgun (e.g. the thumb safety on a "1911" genre handgun). In the event of doubt, the Range Master is the final authority on this matter. 
 8.1.2.5 If a handgun has a decocking lever, that alone must be used to decock the handgun, without touching the trigger. If a handgun does not have a decocking lever, the hammer must be safely and manually lowered all the way forward (i.e. not just to a "half-cock notch" or to another similar intermediary position), or by removing the gas supply and dropping the hammer by activation of the trigger. 
 8.1.3 If a course of fire requires that a self-loading pistol be prepared with an empty chamber, the slide must be fully forward and the hammer, if fitted, must be fully down or decocked. After the Start Signal, the first projectile must be chambered by manipulation of the slide, not by trigger action. Violations will incur one procedural penalty. 
@@ -517,8 +478,7 @@ CHAPTER 9: Scoring
 9.7 Score Sheets 
 9.7.1 The Range Officer must enter all information (including any warnings given) on each competitor’s score sheet prior to signing it. After the Range Officer has signed the score sheet, the competitor must add his own signature in the appropriate place. Electronic score sheet signatures will be acceptable if approved by the Regional Director. Whole numbers should be used to record all scores or penalties. The elapsed time taken by the competitor to complete the course of fire must be recorded to 2 decimal places in the appropriate place. 
 9.7.2 If corrections to the score sheet are required, these will be clearly entered onto the original and other copies of the competitor’s score sheets. The competitor and the Range Officer should initial any corrections. 
-9.7.3 Should a competitor refuse to sign or initial a score sheet, for any reason, the matter must be referred to the 
-Range Master. If the Range Master is satisfied that the course of fire has been conducted and scored correctly the unsigned score sheet will be submitted as normal for inclusion in the match results. 
+9.7.3 Should a competitor refuse to sign or initial a score sheet, for any reason, the matter must be referred to the Range Master. If the Range Master is satisfied that the course of fire has been conducted and scored correctly the unsigned score sheet will be submitted as normal for inclusion in the match results. 
 9.7.4 A score sheet signed by both a competitor and a Range Officer is conclusive evidence that the course of fire has been completed, and that the time, scores and penalties recorded on the score sheet, are accurate and uncontested. The signed score sheet is deemed to be a definitive document and, with the exception of the mutual consent of the competitor and the signatory Range Officer, or due to an arbitration decision, the score sheet will only be changed to correct arithmetical errors or to add procedural penalties under Rule 8.6.2. 
 9.7.5 If a score sheet is found to have insufficient or excess entries, or if the time has not been recorded on the score sheet, it must be promptly referred to the Range Master who will normally require the competitor to reshoot the course of fire. 
 9.7.6 In the event that a reshoot is not possible for any reason, the following actions will prevail: 

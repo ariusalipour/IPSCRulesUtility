@@ -98,6 +98,7 @@ namespace IPSCRulesLibrary.Services
             var extractedSubRules = new List<SubRule>();
 
             var lastLineWasChapter = false;
+            var lastLineWasSection = false;
 
             foreach (var line in fileArray)
             {
@@ -119,6 +120,7 @@ namespace IPSCRulesLibrary.Services
                     });
 
                     lastLineWasChapter = true;
+                    lastLineWasSection = false;
 
                     continue;
                 }
@@ -137,6 +139,7 @@ namespace IPSCRulesLibrary.Services
                     });
 
                     lastLineWasChapter = false;
+                    lastLineWasSection = true;
 
                     continue;
                 }
@@ -155,6 +158,7 @@ namespace IPSCRulesLibrary.Services
                     });
 
                     lastLineWasChapter = false;
+                    lastLineWasSection = false;
 
                     continue;
                 }
@@ -173,6 +177,7 @@ namespace IPSCRulesLibrary.Services
                     });
 
                     lastLineWasChapter = false;
+                    lastLineWasSection = false;
 
                     continue;
                 }
@@ -184,6 +189,17 @@ namespace IPSCRulesLibrary.Services
                     extractedChapters.Last().Description = line;
 
                     lastLineWasChapter = false;
+                    lastLineWasSection = false;
+                }
+
+                // Check for Section Description
+
+                if (lastLineWasSection)
+                {
+                    extractedSections.Last().Description = line;
+
+                    lastLineWasChapter = false;
+                    lastLineWasSection = false;
                 }
             }
 

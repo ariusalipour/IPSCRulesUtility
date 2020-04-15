@@ -36,6 +36,18 @@ namespace IPSCRulesLibrary.Services
             UtilityHelper.CreateUpdateFile(csvPath, $"{discipline.Name}{_fileExtension}", csv.ToString());
         }
 
+        public void CreateCsvGlossary(string disciplineName, List<Glossary> glossaries)
+        {
+            var csv = new StringBuilder();
+
+            var rootPath = AppDomain.CurrentDomain.BaseDirectory;
+            var csvPath = $"{rootPath}/csv";
+
+            csv = InsertGlossaryData(glossaries);
+
+            UtilityHelper.CreateUpdateFile(csvPath, $"{disciplineName} - Glossary{_fileExtension}", csv.ToString());
+        }
+
         private string CsvFriendlyString(string text)
         {
             return text.Replace(_separator, "~");
@@ -66,6 +78,19 @@ namespace IPSCRulesLibrary.Services
             csv = InsertSubRuleData(subRules, csv);
 
             UtilityHelper.CreateUpdateFile(csvPath, $"AllDisciplines{_fileExtension}", csv.ToString());
+        }
+
+        public StringBuilder InsertGlossaryData(List<Glossary> glossaries)
+        {
+            var csv = new StringBuilder();
+
+            foreach (var glossary in glossaries)
+            {
+                csv.AppendLine(
+                    $"{glossary.GlossaryId}{_separator}{CsvFriendlyString(glossary.Name)}{_separator}{CsvFriendlyString(glossary.Definition)}");
+            }
+
+            return csv;
         }
 
         public StringBuilder InsertDisciplineData(Discipline discipline, StringBuilder csv)

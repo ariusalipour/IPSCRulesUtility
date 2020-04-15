@@ -11,6 +11,7 @@ namespace ConsoleUtility
         {
             Console.WriteLine("Loading Rules Reader Service...");
             var rulesReader = new RulesReader();
+            var glossaryReader = new GlossaryReader();
             Console.WriteLine("Rules Reader Service Initialized!");
             Console.WriteLine();
             Console.WriteLine("Please add source files to root of this utility file.");
@@ -18,16 +19,18 @@ namespace ConsoleUtility
             Console.ReadLine();
 
             var rootPath = AppDomain.CurrentDomain.BaseDirectory;
-            string[] filenames = {"Action Air.txt", "Handgun.txt", "Shotgun.txt", "Rifle.txt", "Mini-Rifle.txt", "PCC.txt"};
+            string[] filenames = {"ActionAir", "Handgun", "Shotgun", "Rifle", "MiniRifle", "PCC"};
 
             Console.WriteLine();
             Console.WriteLine("Converting text files to OO Rulebooks");
 
             var converts = new Dictionary<string, RulesReader.ConversionResult>();
+            var glossaries = new Dictionary<string, List<Glossary>>();
 
             foreach (var filename in filenames)
             {
-                converts.Add(filename, rulesReader.ConvertFromTxtFile($"{rootPath}/{filename}"));
+                converts.Add(filename, rulesReader.ConvertFromTxtFile($"{rootPath}/{filename}.txt"));
+                glossaries.Add(filename, glossaryReader.ConvertFromTxtFile($"{rootPath}/{filename} - Glossary.txt"));
             }
 
             Console.WriteLine("Conversions complete! Rules now parsed!");
@@ -67,6 +70,11 @@ namespace ConsoleUtility
             foreach (var discipline in disciplines)
             {
                 csvParser.CreateCsvDiscipline(discipline);
+
+                if (glossaries.ContainsKey(discipline.Name))
+                {
+                    csvParser.CreateCsvGlossary(discipline.Name, glossaries[discipline.Name]);
+                }
             }
             Console.WriteLine("Individual disciplines parsed successfully");
             Console.WriteLine("Creating master file...");
