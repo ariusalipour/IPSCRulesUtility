@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
+      "projectUniqueName": "D:\\GitHub\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
       "projectName": "ConsoleUtility",
-      "projectPath": "D:\\Git\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
+      "projectPath": "D:\\GitHub\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
       "packagesPath": "C:\\Users\\aryan\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\IPSCRulesUtility\\ConsoleUtility\\obj\\",
+      "outputPath": "D:\\GitHub\\IPSCRulesUtility\\ConsoleUtility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -57,8 +57,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Git\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj": {
-              "projectPath": "D:\\Git\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj"
+            "D:\\GitHub\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj": {
+              "projectPath": "D:\\GitHub\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj": {}
+    "D:\\GitHub\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj": {}
   },
   "projects": {
-    "D:\\Git\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj": {
+    "D:\\GitHub\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
+        "projectUniqueName": "D:\\GitHub\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
         "projectName": "ConsoleUtility",
-        "projectPath": "D:\\Git\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
+        "projectPath": "D:\\GitHub\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
         "packagesPath": "C:\\Users\\aryan\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\IPSCRulesUtility\\ConsoleUtility\\obj\\",
+        "outputPath": "D:\\GitHub\\IPSCRulesUtility\\ConsoleUtility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Git\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj": {
-                "projectPath": "D:\\Git\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj"
+              "D:\\GitHub\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj": {
+                "projectPath": "D:\\GitHub\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\Git\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj": {
+    "D:\\GitHub\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj",
+        "projectUniqueName": "D:\\GitHub\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj",
         "projectName": "IPSCRulesLibrary",
-        "projectPath": "D:\\Git\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj",
+        "projectPath": "D:\\GitHub\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj",
         "packagesPath": "C:\\Users\\aryan\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\IPSCRulesUtility\\IPSCRulesLibrary\\obj\\",
+        "outputPath": "D:\\GitHub\\IPSCRulesUtility\\IPSCRulesLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
