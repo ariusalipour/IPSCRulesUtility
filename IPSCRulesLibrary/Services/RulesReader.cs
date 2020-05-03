@@ -14,8 +14,8 @@ namespace IPSCRulesLibrary.Services
     {
         private Regex _chapterRegex = new Regex(@"^CHAPTER\s(?<numeric>\d+):\s(?<name>.+)");
         private Regex _sectionRegex = new Regex(@"^(?<numeric>\d+\.\d+)\s(?<name>.+)");
-        private Regex _ruleRegex = new Regex(@"^(?<numeric>\d+\.\d+\.\d+)\s((?<name>((\w+)\s)+)(-|�)\s)?(?<description>.+)");
-        private Regex _subRuleRegex = new Regex(@"^(?<numeric>\d+\.\d+\.\d+\.\d+)\s((?<name>((\w+)\s)+)(-|�)\s)?(?<description>.+)");
+        private Regex _ruleRegex = new Regex(@"^(?<numeric>\d+\.\d+\.\d+)\s((?<name>((\w+)\s)+)(-|–|�)\s)?(?<description>.+)");
+        private Regex _subRuleRegex = new Regex(@"^(?<numeric>\d+\.\d+\.\d+\.\d+)\s((?<name>((\w+)\s)+)(-|–|�)\s)?(?<description>.+)");
         private Regex _numericRegex = new Regex(@"^(?<chapter>\d+)(\.(?<section>\d+)(\.(?<rule>\d+)(\.(?<subrule>\d+))?)?)?");
         
         public RulesReader()
@@ -23,11 +23,13 @@ namespace IPSCRulesLibrary.Services
 
         }
 
-        public Discipline CreateRuleChapters(ConversionResult input, string disciplineName)
+        public Discipline CreateRuleChapters(ConversionResult input, string disciplineName, List<Glossary> glossaryList)
         {
             var discipline = new Discipline()
             {
-                Name = disciplineName.Replace(".txt", "")
+                Name = disciplineName.Replace(".txt", ""),
+                Language = "English",
+                GlossaryList = glossaryList
             };
 
             var subRules = input.SubRules;

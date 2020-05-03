@@ -9,10 +9,13 @@ namespace IPSCRulesLibrary.ObjectClasses
         {
             DisciplineId = Guid.NewGuid();
             Chapters = new List<Chapter>();
+            GlossaryList = new List<Glossary>();
         }
 
+        public string Language;
         public Guid DisciplineId;
         public string Name;
+        public List<Glossary> GlossaryList;
 
         public List<Chapter> Chapters;
     }

@@ -1,24 +1,27 @@
 Aftermarket.........................Items not manufactured by the OFM, and/or bearing identifying marks of a different OFM. 
 Aim / Aiming......................Aligning the barrel of a firearm at targets. 
+Allied Equipment................Magazines, speed loaders and/or their respective retention devices (including magnets). 
 Attempt at (COF)................The period from issuance of the Start Signal to when the competitor indicates that he has finished shooting, in response to Rule 8.3.6. 
 Berm ...................................A raised structure of sand, soil or other materials used to contain bullets and/or to separate one shooting bay and/or COF from another. 
-Birdshot or Buckshot ..........Types of ammunition cartridges used in a shotgun which contain multiple pellets (see Appendix E1). 
-Cartridge .............................A casing containing propellant and shot or a slug; a round of ammunition. 
+Bullet ..................................The projectile in a round intended to strike a target. 
+Caliber ................................The diameter of a bullet measured in millimeters (or thousandths of an inch). 
+Cartridge case .....................The main body of a round, which contains all component parts. 
 Chamber Safety Flag ..........A brightly colored device, no part of which resembles a round or any part thereof. The flag must be incapable of being inserted into a firearm which has a loaded chamber and must, while fitted, prevent a round from being inserted into the chamber. The flag must have an integral tab or ribbon clearly protruding from the firearm. 
 Compensator.......................A device fitted to the muzzle end of a barrel to counter muzzle rise (usually by diverting away escaping gasses). 
-Detonation ..........................Ignition of the primer, other than by action of a firing pin, where the shot or a slug and/or the wad does not pass through the barrel of a firearm (e.g. when the action of a firearm is being manually retracted, when a round is dropped). 
-Discharge............................An act of firing a gun; to fire (a gun). 
+Detonation ..........................Ignition of the primer of a round, other than by action of a firing pin, where the bullet does not pass through the barrel (e.g. when a slide is being manually retracted, when a round is dropped). 
+Discharge............................See Shot. 
 Downrange..........................The general area of a stage, shooting bay or range, where the muzzle of a firearm may be safely pointed during a course of fire and/or where bullets are intended or are likely to impact. 
+Draw (Drawing)..................The act of removing a handgun from its holster. A draw is deemed to have ended when the handgun has cleared the holster. 
 Dryfiring ............................The activation of the trigger and/or action of a firearm which is totally devoid of ammunition. 
 Dummy Ammunition..........Includes practice or training rounds, blanks, snap caps and empty cases. 
 Engage ................................Firing a shot at a target. Firing a shot at, but missing, a target is not a "failure to engage". The malfunction of a firearm or a round which prevents a shot being fired, is deemed to be a "failure to engage". 
-Face, (facing) Uprange .......The competitor’s face, chest and toes are all facing uprange. 
+Face, (facing) uprange ........The competitor's face, chest and toes are all facing uprange. 
 False start............................Beginning an attempt at a COF prior to the Start Signal (see Rule 8.3.4). 
 Frangible target...................A target, such as a clay pigeon or tile, capable of being easily broken into two or more pieces when hit. 
-Grain ...................................A unit of measurement used to calculate a power factor (437.5 grains per ounce, 15.432 grains per gram, 1 grain = 0.0648 grams). 
+Grain ...................................A common unit of measurement used in respect of the weight of a bullet (1 grain = 0.0648 grams). 
 Holster ................................A handgun retention device, worn on a competitor's belt. 
 Loaded ................................A firearm having a live or dummy round in the chamber or cylinder, or having a live or dummy round in an inserted or fitted magazine(s). 
-Loading...............................The insertion of ammunition into a firearm. 
+Loading...............................The initial insertion of ammunition into a firearm in response to the "Load And Make Ready" command. Loading begins as soon as the competitor grips a round of ammunition, a magazine or speed loader, and ends when the firearm is securely holstered (or placed elsewhere in accordance with the written stage briefing), and the competitor's hands are clear of the firearm. For an unloaded Handgun Ready Condition, loading ends when the magazine is fully seated (or when the cylinder is fully closed). 
 Location..............................A geographical place within a course of fire. 
 Match Personnel .................People who have an official duty or function at a match, but who are not necessarily qualified as, or acting in the capacity of, Match Officials. 
 May.....................................Entirely optional. 
@@ -26,31 +29,31 @@ Must....................................Mandatory.
 No-shoot(s) .........................Target(s) that incur penalties when hit. 
 Not applicable.....................The rule or requirement does not apply to the particular discipline or Division. 
 OFM ...................................Original firearm manufacturer. 
+Primer .................................The part of a round which causes a detonation or a shot to be fired. 
 Props...................................Items, other than targets or fault lines, used in the creation, operation or decoration of a COF. 
 Prototype.............................A firearm in a configuration which is not in mass production and/or is not available to the general public. 
 Region.................................A country or other geographical area, recognized by IPSC. 
 Regional Director................The person, recognized by IPSC, who represents a Region. 
-Reloading............................Replenishment or the insertion of additional ammunition into a firearm. 
+Reloading............................Replacement of a magazine already inserted in a firearm with a different magazine, or the insertion of additional ammunition into a firearm while the competitor is actually making his attempt at a COF. Reloading commences when the magazine (or cylinder) release button is activated, and ends when the competitor's hand is clear of the newly inserted magazine (or when the cylinder is fully closed). Exception: safely firing the chambered round at a target before inserting a fresh magazine. 
 Reshoot ...............................A competitor's subsequent attempt at a course of fire, authorized in advance by a Range Officer or an Arbitration Committee. 
-Round .................................A cartridge of ammunition containing shot or a slug. 
-Shell....................................(Also "shotshell") A cartridge of ammunition used in a shotgun. 
+Round .................................A cartridge of ammunition used in a handgun or rifle. 
 Shooting position................The physical presentation of a person's body (e.g. standing, sitting, kneeling, prone). 
-Shot (1) ...............................The pellets found or used in shotgun cartridges or shells. 
-Shot (2) ...............................An act of firing a gun. 
-Shot (3) ...............................To have fired, the past tense of shoot. 
+Shot.....................................A bullet which passes completely through the barrel of a firearm. 
 Should.................................Optional but highly recommended. 
 Sight picture........................Aiming at a target without actually shooting at it. 
-Slug.....................................A single projectile in a shotgun cartridge or shell intended to strike a target. 
 Snap Cap.............................(Also "spring cap") A type of dummy round. 
-Squib Load..........................A defective cartridge resulting in one or more projectiles and/or the wad failing to exit the barrel, or exiting the barrel at extremely low velocity. 
+Squib...................................Any part of a round lodged inside the barrel of a firearm and/or a bullet which exits the barrel at extremely low velocity. 
 Stance .................................The physical presentation of a person's limbs (e.g. hands by the side, arms crossed etc.). 
 Start position.......................The location, shooting position and stance prescribed by a COF prior to issuance of the Start Signal (see Rule 8.3.4). 
+Strong Hand........................The hand a person uses to initially grip a handgun when drawing it from a holster attached to their belt (the weak hand is the other hand). Competitors with only one hand can use that hand for both Strong and Weak Hand stages, subject to Rule 10.2.10. 
 Sweeping ............................Pointing the muzzle of a firearm at any part of the competitor's body during a course of fire when a handgun is held or touched while not securely holstered, or when a long gun is held while a chamber safety flag is not inserted (see Rule 10.5.5). 
 Target(s)..............................A term that can include both scoring target(s) and no-shoot(s) unless a Rule (e.g. 4.1.3) differentiates between them. 
 Target Array .......................A collection of approved targets that can only be seen from any single location or view. 
+Tie-down rig .......................A holster where the lower portion is secured to a competitor's leg by a strap or other means. 
 Unloaded.............................A firearm which is totally devoid of any live or dummy rounds in its chamber(s) and/or in an inserted or fitted magazine(s). 
-Unloading ...........................Removal of ammunition from a firearm. 
-Uprange ..............................The general area of a stage, shooting bay or range, rearwards of the default maximum safe angle of fire (see Rule 2.1.2), where the muzzle of a firearm must not be pointed during a course of fire (exception: see Rule 10.5.2). 
-Wad.....................................Incorporated within a shotgun cartridge or shell to create a gas seal and which may also hold the shot together (not necessarily intended to strike a target). 
-Wads (Conventional) ..........Fiber wads or plastic wads designed to start opening and separating from the pellets immediately on exiting the barrel. Conventional wads have slits cut from the front of the wad and the resultant petals open up from the front. They do not protect the pellets in flight after exiting the barrel. Wads (Specialized Long-range) Wads designed to encapsulate and/or surround the pellets and after exiting the barrel remain in place during the early part of the flight to hold the pellets together. These wads do not usually have slits cut from the front of the wad. 
-Will.....................................Mandatory. 
+Unloading ...........................Removal of ammunition from a firearm when the competitor has completed his attempt at a COF or when otherwise directed to unload by a Range Official. Unloading commences as soon as the magazine (or cylinder) release button is activated, and ends when the handgun is devoid of ammunition. Note that a competitor who, after activating the magazine or cylinder release button in response to the command given in Rule 8.3.6, safely fires the chambered round at a target and/or who reinserts ammunition, is deemed to have terminated the unloading process and resumed shooting. 
+Uprange ..............................The general area of a stage, shooting bay or range, rearwards of the default maximum safe angle of fire (see Rule 2.1.2), where the muzzle of a firearm must not be pointed during a course of fire (exception: see Rules 10.5.2 and 10.5.6). 
+View ...................................A vantage point available at a location (e.g. one of the ports, one side of a barricade etc.). 
+Will.....................................Mandatory.
+
+

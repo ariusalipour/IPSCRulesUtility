@@ -1,5 +1,5 @@
 Aftermarket.........................Items not manufactured by the OFM, and/or bearing identifying marks of a different OFM. 
-Aim / Aiming......................Aligning the barrel of a firearm at targets. 
+Aim / Aiming......................Aligning the barrel of a firearm at 
 Attempt at (COF)................The period from issuance of the Start Signal to when the competitor indicates that he has finished shooting, in response to Rule 8.3.6. 
 Barricade Stop ....................A device fitted to a firearm, the primary purpose of which is to increase stability on a barricade or another prop while firing shots. 
 Berm ...................................A raised structure of sand, soil or other materials used to contain bullets and/or to separate one shooting bay and/or COF from another. 
@@ -14,7 +14,7 @@ Downrange..........................The general area of a stage, shooting bay or 
 Dryfiring ............................The activation of the trigger and/or action of a firearm which is totally devoid of ammunition. 
 Dummy Ammunition..........Includes practice or training rounds, blanks, snap caps and empty cases. 
 Engage ................................Firing a shot at a target. Firing a shot at, but missing, a target is not a "failure to engage". The malfunction of a firearm or a round which prevents a shot being fired, is deemed to be a "failure to engage". 
-Face, (facing) uprange ........The competitor’s face, chest and toes are all facing uprange. 
+Face, (facing) uprange ........The competitorâ€™s face, chest and toes are all facing uprange. 
 False start............................Beginning an attempt at a COF prior to the Start Signal (see Rule 8.3.4). 
 Frangible target...................A target, such as a clay pigeon or tile, capable of being easily broken into two or more pieces when hit. 
 Grain ...................................A common unit of measurement used in respect of the weight of a bullet (1 grain = 0.0648 grams). 
@@ -51,4 +51,3 @@ Unloaded.............................A firearm which is totally devoid of any li
 Unloading ...........................Removal of ammunition from a firearm. 
 Uprange ..............................The general area of a stage, shooting bay or range, rearwards of the default maximum safe angle of fire (see Rule 2.1.2), where the muzzle of a firearm must not be pointed during a course of fire (exception: see Rule 10.5.2). 
 Will.....................................Mandatory. 
-

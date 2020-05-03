@@ -25,3 +25,12 @@ D:\Git\IPSCRulesUtility\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrar
 D:\Git\IPSCRulesUtility\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.dll
 D:\Git\IPSCRulesUtility\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.pdb
 D:\Git\IPSCRulesUtility\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.csprojAssemblyReference.cache
+D:\GitHub\IPSCRulesUtility\IPSCRulesLibrary\bin\Debug\netcoreapp3.1\IPSCRulesLibrary.deps.json
+D:\GitHub\IPSCRulesUtility\IPSCRulesLibrary\bin\Debug\netcoreapp3.1\IPSCRulesLibrary.dll
+D:\GitHub\IPSCRulesUtility\IPSCRulesLibrary\bin\Debug\netcoreapp3.1\IPSCRulesLibrary.pdb
+D:\GitHub\IPSCRulesUtility\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.csproj.CoreCompileInputs.cache
+D:\GitHub\IPSCRulesUtility\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.AssemblyInfoInputs.cache
+D:\GitHub\IPSCRulesUtility\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.AssemblyInfo.cs
+D:\GitHub\IPSCRulesUtility\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.dll
+D:\GitHub\IPSCRulesUtility\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.pdb
+D:\GitHub\IPSCRulesUtility\IPSCRulesLibrary\obj\Debug\netcoreapp3.1\IPSCRulesLibrary.csprojAssemblyReference.cache

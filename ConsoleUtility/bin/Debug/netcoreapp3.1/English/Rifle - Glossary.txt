@@ -11,10 +11,10 @@ Compensator.......................A device fitted to the muzzle end of a barrel 
 Detonation ..........................Ignition of the primer of a round, other than by action of a firing pin, where the bullet does not pass through the barrel (e.g. when the action of a firearm is being manually retracted, when a round is dropped). 
 Discharge............................See Shot. 
 Downrange..........................The general area of a stage, shooting bay or range, where the muzzle of a firearm may be safely pointed during a course of fire and/or where bullets are intended or are likely to impact. 
-Dryfiring ............................The activation of the trigger and/or action of a firearm which is totally devoid of 
-ammunition. Dummy Ammunition..........Includes practice or training rounds, blanks, snap caps and empty cases. 
+Dryfiring ............................The activation of the trigger and/or action of a firearm which is totally devoid of ammunition. 
+Dummy Ammunition..........Includes practice or training rounds, blanks, snap caps and empty cases. 
 Engage ................................Firing a shot at a target. Firing a shot at, but missing, a target is not a "failure to engage". The malfunction of a firearm or a round which prevents a shot being fired, is deemed to be a "failure to engage". 
-Face, (facing) uprange ........The competitor’s face, chest and toes are all facing uprange. 
+Face, (facing) uprange ........The competitorâ€™s face, chest and toes are all facing uprange. 
 False start............................Beginning an attempt at a COF prior to the Start Signal (see Rule 8.3.4). 
 Frangible target...................A target, such as a clay pigeon or tile, capable of being easily broken into two or more pieces when hit. 
 Grain ...................................A common unit of measurement used in respect of the weight of a bullet (1 grain = 0.0648 grams). 
@@ -35,7 +35,7 @@ Region.................................A country or other geographical area, rec
 Regional Director................The person, recognized by IPSC, who represents a Region. 
 Reloading............................Replenishment or the insertion of additional ammunition into a firearm. 
 Reshoot ...............................A competitor's subsequent attempt at a course of fire, authorized in advance by a Range Officer or an Arbitration Committee. 
-Round .................................A cartridge of ammunition used in a handgun, pistol caliber carbine or rifle. 
+Round .................................A cartridge of ammunition used in a handgun or rifle. 
 Shooting position................The physical presentation of a person's body (e.g. standing, sitting, kneeling, prone). 
 Shot.....................................A bullet which passes completely through the barrel of a firearm. 
 Should.................................Optional but highly recommended. 
@@ -51,3 +51,4 @@ Unloaded.............................A firearm which is totally devoid of any li
 Unloading ...........................Removal of ammunition from a firearm. 
 Uprange ..............................The general area of a stage, shooting bay or range, rearwards of the default maximum safe angle of fire (see Rule 2.1.2), where the muzzle of a firearm must not be pointed during a course of fire (exception: see Rule 10.5.2). 
 Will.....................................Mandatory. 
+

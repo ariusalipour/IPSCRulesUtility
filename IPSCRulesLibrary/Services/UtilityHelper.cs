@@ -9,7 +9,7 @@ namespace IPSCRulesLibrary.Services
     {
         public static string[] ReadFromFile(string filePath)
         {
-            var fileArray = File.ReadAllLines(filePath);
+            var fileArray = File.ReadAllLines(filePath, Encoding.UTF8);
 
             return fileArray;
         }

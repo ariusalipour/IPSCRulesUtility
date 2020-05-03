@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using IPSCRulesLibrary.ObjectClasses;
 using IPSCRulesLibrary.Services;
 
@@ -9,79 +10,49 @@ namespace ConsoleUtility
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Loading Rules Reader Service...");
+           
             var rulesReader = new RulesReader();
             var glossaryReader = new GlossaryReader();
-            Console.WriteLine("Rules Reader Service Initialized!");
-            Console.WriteLine();
-            Console.WriteLine("Please add source files to root of this utility file.");
-            Console.WriteLine("Press Enter to Continue...");
-            Console.ReadLine();
+            var xmlParser = new XmlParser();
 
-            var rootPath = AppDomain.CurrentDomain.BaseDirectory;
+            var rulebook = new Rulebook() { Disciplines = new List<Discipline>() };
+
+            var root = AppDomain.CurrentDomain.BaseDirectory;
             string[] filenames = {"ActionAir", "Handgun", "Shotgun", "Rifle", "MiniRifle", "PCC"};
+            string[] languageNames = {"English", "Brazilian"};
 
-            Console.WriteLine();
-            Console.WriteLine("Converting text files to OO Rulebooks");
 
             var converts = new Dictionary<string, RulesReader.ConversionResult>();
             var glossaries = new Dictionary<string, List<Glossary>>();
 
-            foreach (var filename in filenames)
+            foreach (var languageName in languageNames)
             {
-                converts.Add(filename, rulesReader.ConvertFromTxtFile($"{rootPath}/{filename}.txt"));
-                glossaries.Add(filename, glossaryReader.ConvertFromTxtFile($"{rootPath}/{filename} - Glossary.txt"));
-            }
+                var rootPath = $"{root}/{languageName}";
 
-            Console.WriteLine("Conversions complete! Rules now parsed!");
-            Console.WriteLine($"WARNINGS:");
-            Console.WriteLine($"Rules 3.2.1 and 4.1.1.2 have bullet points which do not translate and need manual entry.");
-            Console.WriteLine($"Rules with names that include parantheses will end up in description");
-            Console.WriteLine();
-            Console.WriteLine("Creating Rules Book from parsings!");
+                if (!Directory.Exists(rootPath))
+                    continue;
 
-            var disciplines = new List<Discipline>();
-
-            foreach (var convert in converts)
-            {
-                disciplines.Add(rulesReader.CreateRuleChapters(convert.Value, convert.Key));
-            }
-
-            Console.WriteLine("Individual rules parsed.");
-            Console.WriteLine("");
-            Console.WriteLine("Creating Combined rules book...");
-
-            var ruleMerger = new RuleMerger();
-            disciplines.Add(ruleMerger.MergeDisciplines(disciplines));
-
-            Console.WriteLine("Rules book parsed. Printing...");
-            Console.WriteLine();
-            Console.WriteLine("Loading File Writer Service...");
-            var fileWriter = new WebsiteCreator();
-            Console.WriteLine("File Writer Service Initialized!");
-            Console.WriteLine();
-            Console.WriteLine("Creating Website Structure...");
-            fileWriter.CreateWebsiteFilesDirectory(disciplines);
-            Console.WriteLine();
-            Console.WriteLine("Website Created!");
-            Console.WriteLine();
-            Console.WriteLine("Creating CSV Files of Disciplines...");
-            var csvParser = new CsvParser();
-            foreach (var discipline in disciplines)
-            {
-                csvParser.CreateCsvDiscipline(discipline);
-
-                if (glossaries.ContainsKey(discipline.Name))
+                foreach (var filename in filenames)
                 {
-                    csvParser.CreateCsvGlossary(discipline.Name, glossaries[discipline.Name]);
+                    if (File.Exists($"{rootPath}/{filename}.txt"))
+                        converts.Add(filename, rulesReader.ConvertFromTxtFile($"{rootPath}/{filename}.txt"));
+
+                    if (File.Exists($"{rootPath}/{filename} - Glossary.txt"))
+                        glossaries.Add(filename, glossaryReader.ConvertFromTxtFile($"{rootPath}/{filename} - Glossary.txt"));
                 }
+
+                var disciplines = new List<Discipline>();
+
+                foreach (var convert in converts)
+                {
+                    var glossaryList = glossaries[convert.Key];
+                    disciplines.Add(rulesReader.CreateRuleChapters(convert.Value, convert.Key, glossaryList));
+                }
+
+                rulebook.Disciplines.AddRange(disciplines);
             }
-            Console.WriteLine("Individual disciplines parsed successfully");
-            Console.WriteLine("Creating master file...");
-            csvParser.CreateCsvDisciplines(disciplines);
-            Console.WriteLine("Master file created!");
-            var csvReader = new CsvReader();
-            var readDisciplines = csvReader.ReadCsvDisciplines();
+
+            xmlParser.CreateXmlRulebook(rulebook);
         }
     }
 }

@@ -15,8 +15,7 @@ False start............................Beginning an attempt at a COF prior to th
 Frangible target...................A target, such as a clay pigeon or tile, capable of being easily broken into two or more pieces when hit. 
 Holster ................................A handgun retention device, worn on a competitor's belt. 
 Loaded ................................A firearm having a projectile in the chamber, or having a projectile in an inserted or fitted magazine(s). 
-Loading...............................The initial insertion of projectiles into a firearm in response to the "Load And Make Ready" command. Loading begins as soon as the competitor grips a projectile, a magazine or speed loader, and ends when the firearm is securely holstered (or placed elsewhere in accordance with the written stage briefing), and the competitor's hands are clear of the firearm. For an 
-unloaded Handgun Ready Condition, loading ends when the magazine is fully seated (or when the cylinder is fully closed). 
+Loading...............................The initial insertion of projectiles into a firearm in response to the "Load And Make Ready" command. Loading begins as soon as the competitor grips a projectile, a magazine or speed loader, and ends when the firearm is securely holstered (or placed elsewhere in accordance with the written stage briefing), and the competitor's hands are clear of the firearm. For an unloaded Handgun Ready Condition, loading ends when the magazine is fully seated (or when the cylinder is fully closed). 
 Location..............................A geographical place within a course of fire. 
 Match Personnel .................People who have an official duty or function at a match, but who are not necessarily qualified as, or acting in the capacity of, Match Officials. 
 May.....................................Entirely optional. 
