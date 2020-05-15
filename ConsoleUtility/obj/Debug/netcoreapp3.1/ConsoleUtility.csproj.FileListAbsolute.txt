@@ -62,3 +62,4 @@ D:\GitHub\IPSCRulesUtility\ConsoleUtility\bin\Debug\netcoreapp3.1\ConsoleUtility
 D:\GitHub\IPSCRulesUtility\ConsoleUtility\bin\Debug\netcoreapp3.1\ConsoleUtility.dll
 D:\GitHub\IPSCRulesUtility\ConsoleUtility\bin\Debug\netcoreapp3.1\ConsoleUtility.pdb
 D:\GitHub\IPSCRulesUtility\ConsoleUtility\obj\Debug\netcoreapp3.1\ConsoleUtility.genruntimeconfig.cache
+D:\GitHub\IPSCRulesUtility\ConsoleUtility\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

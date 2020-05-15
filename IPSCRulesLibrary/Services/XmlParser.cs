@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using System.Xml;
 using System.Xml.Serialization;
 using IPSCRulesLibrary.ObjectClasses;
+using Newtonsoft.Json;
+using Formatting = System.Xml.Formatting;
 
 namespace IPSCRulesLibrary.Services
 {
@@ -12,16 +13,26 @@ namespace IPSCRulesLibrary.Services
     {
         public void CreateXmlRulebook(Rulebook rulebook)
         {
-            var xmlFile = new MemoryStream();
-
             var rootPath = AppDomain.CurrentDomain.BaseDirectory;
             var xmlPath = $"{rootPath}/xml";
 
-            var serializer = new XmlSerializer(rulebook.GetType());
+            var settings = new JsonSerializerSettings() {ReferenceLoopHandling = ReferenceLoopHandling.Ignore}; 
+            var serialisedText = JsonConvert.SerializeObject(rulebook, Newtonsoft.Json.Formatting.Indented, settings);
 
-            serializer.Serialize(xmlFile, rulebook);
+            using (var xmlFile = GenerateStreamFromString(serialisedText))
+            {
+                UtilityHelper.CreateUpdateFile(xmlPath, "Rulebook.data", Encoding.UTF8.GetString(xmlFile.ToArray()));
+            }
+        }
 
-            UtilityHelper.CreateUpdateFile(xmlPath, "Rulebook.data", Encoding.UTF8.GetString(xmlFile.ToArray()));
+        public MemoryStream GenerateStreamFromString(string s)
+        {
+            var stream = new MemoryStream();
+            var writer = new StreamWriter(stream);
+            writer.Write(s);
+            writer.Flush();
+            stream.Position = 0;
+            return stream;
         }
 
         public void CreateXmlDiscipline(Discipline discipline)

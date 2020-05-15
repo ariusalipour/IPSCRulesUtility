@@ -1,10 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace IPSCRulesLibrary.ObjectClasses
 {
-    public class SubRule
+    public class SubRule : SubRuleBase
     {
         public SubRule()
+        {
+            SubRuleId = Guid.NewGuid();
+        }
+
+        public string SearchableString;
+        public List<RuleSpan> SpanList;
+    }
+
+    public class SubRuleBase
+    {
+        public SubRuleBase()
         {
             SubRuleId = Guid.NewGuid();
         }

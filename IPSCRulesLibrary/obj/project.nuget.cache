@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "a2EMuBdTuaZYuGuSloYgGKhdUitq6+I/dIc5CPJa6LRLRgf+gAtj2mV0qe3tk3u0epWOk11byvyq/O8pJ30srA==",
+  "dgSpecHash": "KCh+iz4Le5YC+gg+pcLedH2dDW/BpIG390qK4tfXCYNrFKbeTta5anfztwzqjoxr1+97NzMRkJkAZKEp5DRKaA==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\IPSCRulesUtility\\IPSCRulesLibrary\\IPSCRulesLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aryan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

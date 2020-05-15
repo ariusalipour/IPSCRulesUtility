@@ -17,7 +17,7 @@ namespace IPSCRulesLibrary.ObjectClasses
         public string Description;
         public Guid ChapterId;
         public Guid DisciplineId;
-
+        public string SearchableString;
         public List<Rule> Rules;
     }
 }

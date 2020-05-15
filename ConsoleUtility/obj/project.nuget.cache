@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GPV+TWc16xGid6vIyQotjlpgGXoyFMdUt1CKyknsTiWyPn6Frkirw/cy5DtXpds8Dau3qU941UQ/xc/pKSuxGA==",
+  "dgSpecHash": "RovcudmtQ0eRAWIe3/2SuCF5MK62E1WEop4dj4NOjNQUUla+RG2MCMVUeRJ7pkL7Elsgzkpa+uGP9Pkrq/tzJA==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\IPSCRulesUtility\\ConsoleUtility\\ConsoleUtility.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aryan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

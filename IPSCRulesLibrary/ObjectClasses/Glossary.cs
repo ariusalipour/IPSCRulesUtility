@@ -10,6 +10,7 @@ namespace IPSCRulesLibrary.ObjectClasses
         }
 
         public Guid GlossaryId;
+        public Guid DisciplineId;
         public string Name;
         public string Definition;
     }
